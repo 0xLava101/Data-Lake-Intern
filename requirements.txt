@@ -4,4 +4,4 @@ ddgs==9.5.1
 python-dotenv==1.0.1
 pillow==10.1.0
 rich==13.7.0
-label-studio-sdk==1.0.20
+label_studio_sdk==1.0.20
