@@ -1,0 +1,7 @@
+.env
+test_urls.json
+supatest.py
+
+__pycache__
+
+notes.md

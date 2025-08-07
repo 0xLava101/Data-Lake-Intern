@@ -1,0 +1,61 @@
+{
+    "Infrastructure & Fixtures": [
+        "Shelving units / Racks",
+        "Bins and drawers",
+        "Loading docks",
+        "Doors and gates",
+        "Lighting fixtures",
+        "Security cameras",
+        "HVAC units"
+    ],
+    "Transport & Mobility": [
+        "Forklifts",
+        "Hand trucks / Trolleys",
+        "Carts",
+        "Delivery trucks (at loading bays)"
+    ],
+    "Labeling & Tracking": [
+        "Barcodes / QR codes",
+        "RFID tags",
+        "Inventory labels",
+        "Digital screens or tablets"
+    ],
+    "Environmental Monitoring": [
+        "Temperature sensors",
+        "Humidity sensors",
+        "Smoke detectors", 
+        "Motion detectors"
+    ],
+        "Inventory & Equipment": [
+        "Pallets (wooden)",
+        "Pallets (plastic)",
+        "Pallets (metal)",
+        "Boxes/Cartons",
+        "Crates",
+        "Containers",
+        "Forklifts",
+        "Pallet jacks",
+        "Conveyors",
+        "Drills",
+        "Wrenches",
+        "Hammers",
+        "gears",
+        "belts",
+        "motors",
+        "Servers",
+        "Routers",
+        "Diagnostic tools",
+        "Cables",
+        "Wiring"
+    ],
+        "People & Safety Equipment": [
+        "Warehouse staff",
+        "Safety helmets",
+        "Safety sgloves",
+        "Safety vests",
+        "Safety goggles",
+        "ID badges or RFID tags",
+        "Fire extinguishers",
+        "First aid kits"
+    ]
+}
